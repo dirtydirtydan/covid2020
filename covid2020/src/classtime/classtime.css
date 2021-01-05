@@ -1,0 +1,19 @@
+html,
+body,
+#root {
+    background-color: rgb(46, 43, 43);
+    color: white;
+}
+
+.happy {
+    color: yellow;
+    border: 2px solid yellowgreen;
+}
+.sad {
+    color: gray;
+    border: 2px solid black;
+}
+.angry {
+    color: red;
+    border: red 2px solid red;
+}
